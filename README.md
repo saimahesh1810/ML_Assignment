@@ -127,14 +127,13 @@ project/
 │   └── creditcard.csv         
 │
 ├── plots/                   
-│   ├── train_loss_bs16.png
-│   ├── train_loss_bs64.png
-│   ├── train_loss_bs256.png
-│   ├── train_loss_bs1024.png
-│   ├── val_loss_bs*.png
-│   ├── auc_curves.png
+│   ├── Trainingloss_for_diff_batchsizes.png
+│   ├── Training_AUC_forDiffBatchSizes_bs64.png
+│   ├── Validationloss_for_diff_batchsizes.png
+│   ├── ValidationAUC_for_diff_batchsizes.png
 │   ├── confusion_matrix_bs16.png
-│   └── confusion_matrix_bs1024.png
+│   ├── confusion_matrix_bs1024.png
+│   └── Placeholder.txt
 │
 ├── (24069723)_ML_Assignment.ipynb
 ├── (24069723)_ML_Report.pdf
