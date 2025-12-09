@@ -115,7 +115,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ```
 
 ### All plots generated in the report (loss curves, AUC curves, confusion matrices).
-We can see the plots that are used in the report in the figures folder.
+We can see the plots that are used in the report in the plots folder.
 ---
 
 ### 📁 Folder Structure
@@ -126,7 +126,7 @@ project/
 ├── data/
 │   └── creditcard.csv         
 │
-├── figures/                   
+├── plots/                   
 │   ├── train_loss_bs16.png
 │   ├── train_loss_bs64.png
 │   ├── train_loss_bs256.png
